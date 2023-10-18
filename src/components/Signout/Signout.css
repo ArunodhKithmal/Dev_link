@@ -1,0 +1,11 @@
+.logout-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Make the container fill the entire viewport height */
+}
+
+.spinner {
+    margin-top: 20px; /* Adjust the top margin to add space between the spinner and the message */
+}

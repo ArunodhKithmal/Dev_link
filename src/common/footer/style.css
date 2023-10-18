@@ -1,0 +1,54 @@
+footer {
+  background-color: #0f3460;
+  padding: 100px 0;
+  color: #fff;
+}
+footer h1 {
+  margin-bottom: 30px;
+  color: #e94560;
+  font-weight: 800;
+  font-style: italic;
+}
+footer .img {
+  background-color: #0c2a4d;
+  padding: 15px 20px;
+  border-radius: 5px;
+}
+footer .img i {
+  font-size: 20px;
+  margin: 5px;
+  padding: 5px;
+}
+footer .img span {
+  margin-top: 5px;
+}
+footer p {
+  font-size: 14px;
+  font-weight: 300;
+  opacity: 0.5;
+  margin-bottom: 20px;
+}
+footer h2 {
+  margin-bottom: 20px;
+}
+footer li {
+  margin-bottom: 10px;
+  opacity: 0.5;
+}
+.container1{
+  display: flex;
+}
+.box1 {
+  flex: 0.6; /* This box will take one unit of available space */
+  margin-left: 300px;
+}
+
+.box2 {
+  flex: 0.5; /* This box will take two units of available space */
+}
+
+.box3 {
+  flex: 0.5; /* This box will take one unit of available space */
+  margin-right: 100px;
+}
+
